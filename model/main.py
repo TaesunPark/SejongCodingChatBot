@@ -60,6 +60,8 @@ def predictBotResonse():
     else:
         result_reco = reco.get_recommendations(python_data, len(python_data) - 1)
         python_data = reco.deleteUserData(python_data)
+
+    logger.debug(result_reco)
     print(result_reco)
 
     result_reco_title = []
@@ -72,6 +74,7 @@ def predictBotResonse():
     result_dict = dict()
     result_dict["botMsg"] = result_chatbot
     result_dict["reco"] = result_reco_title
+    logger.debug(result_dict)
     print(result_dict)
     return result_dict
 
