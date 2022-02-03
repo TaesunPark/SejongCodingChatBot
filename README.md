@@ -4,7 +4,7 @@
 
 세종대학교 학생들을 위한 코딩 도우미 플랫폼 “SJ Coding Helper
 
-![Untitled](SJ%20Coding%20Helper%202b84e55abd7a4e92a9a55ad86831222e/Untitled.png)
+![Untitled](https://raw.githubusercontent.com/TaesunPark/SejongCodingChatBot/master/image/Untitled.png)
 
 ## 💡 Background
 
@@ -82,25 +82,25 @@
 
 ## 1. 챗봇 채팅 페이지
 
-![Untitled](SJ%20Coding%20Helper%202b84e55abd7a4e92a9a55ad86831222e/Untitled%201.png)
+![Untitled](https://raw.githubusercontent.com/TaesunPark/SejongCodingChatBot/master/image/Untitled%201.png)
 
 ## 2. 웹 컴파일러 페이지
 
-![Untitled](SJ%20Coding%20Helper%202b84e55abd7a4e92a9a55ad86831222e/Untitled%202.png)
+![Untitled](https://raw.githubusercontent.com/TaesunPark/SejongCodingChatBot/master/image/Untitled%202.png)
 
-![Untitled](SJ%20Coding%20Helper%202b84e55abd7a4e92a9a55ad86831222e/Untitled%203.png)
+![Untitled](https://raw.githubusercontent.com/TaesunPark/SejongCodingChatBot/master/image/Untitled%203.png)
 
-![Untitled](SJ%20Coding%20Helper%202b84e55abd7a4e92a9a55ad86831222e/Untitled%204.png)
+![Untitled](https://raw.githubusercontent.com/TaesunPark/SejongCodingChatBot/master/image/Untitled%204.png)
 
 ## 3. TA조교 채팅 페이지
 
-![Untitled](SJ%20Coding%20Helper%202b84e55abd7a4e92a9a55ad86831222e/Untitled%205.png)
+![Untitled](https://raw.githubusercontent.com/TaesunPark/SejongCodingChatBot/master/image/Untitled%205.png)
 
 ---
 
 ## 🛠️ Architecture
 
-![Untitled](SJ%20Coding%20Helper%202b84e55abd7a4e92a9a55ad86831222e/Untitled%206.png)
+![Untitled](https://raw.githubusercontent.com/TaesunPark/SejongCodingChatBot/master/image/Untitled%206.png)
 
 ## 💭 I Learned
 
