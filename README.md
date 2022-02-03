@@ -1,14 +1,10 @@
 # SJ Coding Helper
 
----
-
 세종대학교 학생들을 위한 코딩 도우미 플랫폼 “SJ Coding Helper
 
-![Untitled](https://raw.githubusercontent.com/TaesunPark/SejongCodingChatBot/master/image/Untitled.png)
+![Untitled](SJ%20Coding%20Helper%207f474c93a2da4ef6aeb0632413514224/Untitled.png)
 
 ## 💡 Background
-
----
 
 - 코딩 수업을 처음 접하는 비전공자, 신입생 학생
 - 학생 수에 비해 부족한 조교 학생 수
@@ -18,15 +14,11 @@
 
 ## **📚 Stack & Library**
 
----
-
 - Spring-boot, Spring JPA, Flask, Mysql, Nginx, Docker, AWS EC2, AWS RDS, Tensorflow, React.js
 - Java, Python, Javascript
 - zt-exec
 
 ## 👩‍💻 Project Features
-
----
 
 ## 1. 코딩 Q&A 챗봇 기능
 
@@ -76,31 +68,27 @@
 
 ## 🎞️ Service UI
 
----
-
 ## 사용자 서비스
 
 ## 1. 챗봇 채팅 페이지
 
-![Untitled](https://raw.githubusercontent.com/TaesunPark/SejongCodingChatBot/master/image/Untitled%201.png)
+![Untitled](SJ%20Coding%20Helper%207f474c93a2da4ef6aeb0632413514224/Untitled%201.png)
 
 ## 2. 웹 컴파일러 페이지
 
-![Untitled](https://raw.githubusercontent.com/TaesunPark/SejongCodingChatBot/master/image/Untitled%202.png)
+![Untitled](SJ%20Coding%20Helper%207f474c93a2da4ef6aeb0632413514224/Untitled%202.png)
 
-![Untitled](https://raw.githubusercontent.com/TaesunPark/SejongCodingChatBot/master/image/Untitled%203.png)
+![Untitled](SJ%20Coding%20Helper%207f474c93a2da4ef6aeb0632413514224/Untitled%203.png)
 
-![Untitled](https://raw.githubusercontent.com/TaesunPark/SejongCodingChatBot/master/image/Untitled%204.png)
+![Untitled](SJ%20Coding%20Helper%207f474c93a2da4ef6aeb0632413514224/Untitled%204.png)
 
 ## 3. TA조교 채팅 페이지
 
-![Untitled](https://raw.githubusercontent.com/TaesunPark/SejongCodingChatBot/master/image/Untitled%205.png)
-
----
+![Untitled](SJ%20Coding%20Helper%207f474c93a2da4ef6aeb0632413514224/Untitled%205.png)
 
 ## 🛠️ Architecture
 
-![Untitled](https://raw.githubusercontent.com/TaesunPark/SejongCodingChatBot/master/image/Untitled%206.png)
+![Untitled](SJ%20Coding%20Helper%207f474c93a2da4ef6aeb0632413514224/Untitled%206.png)
 
 ## 💭 I Learned
 
@@ -111,7 +99,5 @@
 - 스키마 구성, 챗봇, 채팅, 컴파일러 REST API 구축 하였습니다.
 
 ## 📺 Service Video
-
----
 
 [https://www.youtube.com/watch?v=2Y8-H26Ypds](https://www.youtube.com/watch?v=2Y8-H26Ypds)
