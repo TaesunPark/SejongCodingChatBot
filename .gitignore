@@ -1,2 +1,4 @@
 model/chatbot/config/DatabaseConfig.py
-
+./image
+# Mac
+*.DS_Store
